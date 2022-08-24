@@ -17,7 +17,7 @@ struct LandmarkList: View {
                     LandmarkRow(landmark: landmark)
                 }
             }
-            .navigationTitle("Landmarks")
+            .navigationTitle("CC快乐地图")
         }
     }
 }
