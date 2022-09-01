@@ -25,7 +25,7 @@ struct CategoryHome: View {
                 }
                 .listRowInsets(EdgeInsets())
             }
-            .navigationTitle("Featured")
+            .navigationTitle("HAYA")
         }
     }
 }
